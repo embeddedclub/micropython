@@ -1,4 +1,7 @@
 # MicroPython IR Temperature Sensor (MLX90640) driver, I2C interface
+# Version 1.0
+# Published by Embedded Club via www.embedded.club
+# Support via what@embedded.club
 
 from micropython import const
 
